@@ -65,7 +65,7 @@ No hay problema, el último dígito puede ser número o letra
 3. Column DNI in the admin panel
 4. Field DNI in the user profile
 
-http://blog.gopymes.pe/plugin-wp-social-godownload-1-0/
+http://blog.gopymes.pe/plugins/validar-dni-peruano/
 
 == Changelog ==
 
